@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+    👋 Hi, I am Steve
+    👀 I am interested in the broad field of Science.
+    💻 I am currently a student in Computer Science.
+    💻 I also continue to take STEM related coursework to expand my skillset and education.
+    🌱 I am currently learning: programming, data structures, algorithms, advanced math, and more!
+    📫 How to reach me, you can find me on LinkedIn: https://www.linkedin.com/in/steve-ellermann/
+
 <!--
 **steveellermann/steveellermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
